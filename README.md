@@ -29,8 +29,7 @@
 
 (ACM MM 2022) [Mix-DANN and Dynamic-Modal-Distillation for Video Domain Adaptation](https://dl.acm.org/doi/pdf/10.1145/3503161.3548313) by Yin et al.
 
-(ICCV 2023) [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](https://arxiv.org/abs/2308.09139) [[Code]](https://github.com/giaczara/dallv) by Zara et al.
-
+(ECCV 2024) [Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision](https://arxiv.org/abs/2407.01518) [[Code]](https://github.com/donghao51/MOOSA) by Dong et al.
 
 
 
@@ -98,8 +97,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (ICMLW 2024) [Two-Level Test-Time Adaptation in Multimodal Learning](https://openreview.net/forum?id=n0lDbIKVAT) by Lei et al.
 
 
-(AAAI 2024) [Heterogeneous Test-Time Training for Multi-Modal Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/28398) by Wang et al.
-
 
 ### 3D Semantic Segmentation
 
@@ -109,9 +106,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2403.06461) [[Code]](https://github.com/AronCao49/Latte/) by Cao et al.
 
+
+### Other Tasks
+(AAAI 2024) [Heterogeneous Test-Time Training for Multi-Modal Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/28398) by Wang et al.
+
 (CVPR 2024) [Test-Time Adaptation for Depth Completion](https://arxiv.org/abs/2402.03312) [[Code]](https://github.com/seobbro/TTA-depth-completion) by Park et al.
-
-
 
 
 ## Multimodal Domain Generalization
@@ -131,7 +130,17 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 
-## Domain Adaptation and Generalization under the Help of Foundation Models
+## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
+
+(ICCV 2023) [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](https://arxiv.org/abs/2308.09139) [[Code]](https://github.com/giaczara/dallv) by Zara et al.
+
+(ICCV 2023) [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.pdf) by Huang et al.
+
+(ICCV 2023) [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_PromptStyler_Prompt-driven_Style_Generation_for_Source-free_Domain_Generalization_ICCV_2023_paper.pdf) by Cho et al.
+
+
+
+(CVPR 2024) [PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf) by Chen et al.
 
 
 (CVPR 2024) [Collaborating Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.09788) [[Code]](https://github.com/yasserben/CLOUDS) by Benigmim et al.
@@ -142,17 +151,61 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (CVPR 2024) [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://arxiv.org/abs/2311.16510) [[Code]](https://github.com/tntek/source-free-domain-adaptation) by Tang et al.
 
 
+(CVPR 2024) [Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.04265) [[Code]](https://github.com/w1oves/Rein) by Wei et al
+
+(CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al
+
+(CVPR 2024) [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.pdf) by Addepalli et al
+
+
+
+(CVPRW 2024) [Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation](https://arxiv.org/abs/2406.09896) [[Code]](https://github.com/tue-mps/vfm-uda) by Englert et al
+
+
+
 (ECCV 2024) [DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control](https://arxiv.org/abs/2312.03048) [[Code]](https://github.com/prs-eth/DGInStyle) by Jia et al.
 
 
 (ECCV 2024) [Learning to Adapt SAM for Segmenting Cross-domain Point Clouds](https://arxiv.org/abs/2310.08820) by Peng et al.
 
+(ECCV 2024) [Learning Representations from Foundation Models for Domain Generalized Stereo Matching](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05841.pdf) by Zhang et al.
+
+(ECCV 2024) [Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs](https://www.arxiv.org/abs/2408.02261) by Lim et al.
+
+
+
+(ICMLW 2024) [Leveraging Generative Foundation Models for Domain Generalization](https://openreview.net/pdf?id=AycNSoRjbi) by Hemati et al.
+
+(WACV 2024) [Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf) by Lai et al.
+
+(WACV 2024) [ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_ReCLIP_Refine_Contrastive_Language_Image_Pre-Training_With_Source_Free_Domain_WACV_2024_paper.pdf) by Hu et al.
+
+
+
+(IJCV 2024) [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954) [[Code]](https://github.com/zwenyu/colearn-plus) by Zhang et al.
+
+
+(arXiv 2022) [Prompt Vision Transformer for Domain Generalization](https://arxiv.org/abs/2208.08914) [[Code]](https://github.com/zhengzangw/DoPrompt) by Zheng et al.
+
 (arXiv 2024) [Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2403.10001) [[Code]](https://github.com/EtronTech/VFMSeg) by Xu et al.
 
+(arXiv 2024) [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204) by Yu et al.
 
+(arXiv 2024) [CLIP the Divergence: Language-guided Unsupervised Domain Adaptation](https://arxiv.org/abs/2407.01842) by Zhu et al.
+
+(arXiv 2024) [Transitive Vision-Language Prompt Learning for Domain Generalization](https://arxiv.org/abs/2404.18758) by Chen et al.
 
 
 ## Adaptation of Foundation Models 
 
+(ICCV 2023) [Black Box Few-Shot Adaptation for Vision-Language models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) by Ouali et al
 
+(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li et al.
+
+(NeurIPS 2023) [Benchmarking robustness of adaptation methods on pre-trained vision-language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2a544e43acb8b954dc5846ff0d77ad5-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/adarobustness/adaptation_robustness) by Chen et al
+
+
+(CVPR 2024) [Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) by Karmanov et al
+
+(TIP 2024) [Adapting Vision-Language Models via Learning to Inject Knowledge](https://ieeexplore.ieee.org/abstract/document/10704586) by Xuan et al
 
