@@ -1,5 +1,24 @@
 # Awesome-Multimodal-Adaptation
 
+## Table of Contents
+- [Awesome-Multimodal-Adaptation](#awesome-multimodal-adaptation)
+  - [Table of Contents](#table-of-contents)
+  - [Multimodal Domain Adaptation](#multimodal-domain-adaptation)
+    - [Action Recognition](#action-recognition)
+    - [3D Semantic Segmentation](#3d-semantic-segmentation)
+    - [Other Tasks](#other-tasks)
+  - [Multimodal Test-time Adaptation](#multimodal-test-time-adaptation)
+    - [Action Recognition](#action-recognition-1)
+    - [3D Semantic Segmentation](#3d-semantic-segmentation-1)
+    - [Other Tasks](#other-tasks-1)
+  - [Multimodal Domain Generalization](#multimodal-domain-generalization)
+    - [Action Recognition](#action-recognition-2)
+    - [3D Semantic Segmentation](#3d-semantic-segmentation-2)
+  - [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
+  - [Adaptation of Foundation Models](#adaptation-of-foundation-models)
+
+
+
 
 ## Multimodal Domain Adaptation
 
