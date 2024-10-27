@@ -1,6 +1,7 @@
 # Awesome-Multimodal-Adaptation
 
 ## Table of Contents
+
 - [Awesome-Multimodal-Adaptation](#awesome-multimodal-adaptation)
   - [Table of Contents](#table-of-contents)
   - [Multimodal Domain Adaptation](#multimodal-domain-adaptation)
@@ -15,7 +16,10 @@
     - [Action Recognition](#action-recognition-2)
     - [3D Semantic Segmentation](#3d-semantic-segmentation-2)
   - [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
-  - [Adaptation of Foundation Models](#adaptation-of-foundation-models)
+  - [Adaptation of Multimodal Foundation Models](#adaptation-of-multimodal-foundation-models)
+    - [Prompt-based Adaptation](#prompt-based-adaptation)
+    - [Adapter-based Adaptation](#adapter-based-adaptation)
+    - [Other Methods](#other-methods)
 
 
 
@@ -151,6 +155,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
 
+
+(arXiv 2022) [Prompt Vision Transformer for Domain Generalization](https://arxiv.org/abs/2208.08914) [[Code]](https://github.com/zhengzangw/DoPrompt) by Zheng et al.
+
 (ICCV 2023) [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](https://arxiv.org/abs/2308.09139) [[Code]](https://github.com/giaczara/dallv) by Zara et al.
 
 (ICCV 2023) [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.pdf) by Huang et al.
@@ -172,7 +179,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2312.04265) [[Code]](https://github.com/w1oves/Rein) by Wei et al
 
-(CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al
 
 (CVPR 2024) [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.pdf) by Addepalli et al
 
@@ -204,8 +210,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (IJCV 2024) [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954) [[Code]](https://github.com/zwenyu/colearn-plus) by Zhang et al.
 
 
-(arXiv 2022) [Prompt Vision Transformer for Domain Generalization](https://arxiv.org/abs/2208.08914) [[Code]](https://github.com/zhengzangw/DoPrompt) by Zheng et al.
-
 (arXiv 2024) [Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2403.10001) [[Code]](https://github.com/EtronTech/VFMSeg) by Xu et al.
 
 (arXiv 2024) [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204) by Yu et al.
@@ -215,16 +219,112 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2024) [Transitive Vision-Language Prompt Learning for Domain Generalization](https://arxiv.org/abs/2404.18758) by Chen et al.
 
 
-## Adaptation of Foundation Models 
+## Adaptation of Multimodal Foundation Models 
 
-(ICCV 2023) [Black Box Few-Shot Adaptation for Vision-Language models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) by Ouali et al
+### Prompt-based Adaptation 
+(IJCV 2022) [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) [[Code]](https://github.com/KaiyangZhou/CoOp) by Zhou et al
 
-(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li et al.
+(CVPR 2022) [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) [[Code]](https://github.com/KaiyangZhou/CoOp) by Zhou et al
+
+(CVPR 2022) [Prompt Distribution Learning](https://arxiv.org/abs/2205.03340) by Lu et al
+
+(CVPR 2022) [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/abs/2112.01518) [[Code]](https://github.com/raoyongming/DenseCLIP) by Rao et al
+
+(NeurIPS 2022) [DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://arxiv.org/abs/2206.09541) [[Code]](https://github.com/sunxm2357/DualCoOp) by Sun et al
+
+(NeurIPS 2022) [Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models](https://arxiv.org/abs/2209.07511) by Shu et al
+
+(EMNLP 2022) [CPL: Counterfactual Prompt Learning for Vision and Language Models](https://arxiv.org/abs/2210.10362) [[Code]](https://github.com/eric-ai-lab/CPL) by He et al
+
+(arXiv 2022) [Prompt Tuning with Soft Context Sharing for Vision-Language Models](https://arxiv.org/abs/2208.13474) [[Code]](https://github.com/kding1225/softcpt) by Ding et al
+
+(arXiv 2022) [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649) [[Code]](https://github.com/tonyhuang2022/UPL) by Huang et al
+
+(arXiv 2022) [Unified Vision and Language Prompt Learning](https://arxiv.org/abs/2210.07225) by Zang et al
+
+(arXiv 2022) [Exploring Visual Prompts for Adapting Large-Scale Models](https://arxiv.org/abs/2203.17274) [[Code]](https://github.com/hjbahng/visual_prompting) by Bahng et al
+
+(ICLR 2023) [PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/abs/2210.01253) [[Code]](https://github.com/CHENGY12/PLOT) by Chen et al
+
+(CVPR 2023) [LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Bulat_LASP_Text-to-Text_Optimization_for_Language-Aware_Soft_Prompting_of_Vision__CVPR_2023_paper.pdf) by BulatMa et al
+
+(CVPR 2023) [Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://arxiv.org/abs/2211.12739) [[Code]](https://github.com/guozix/TaI-DPT) by Guo et al
+
+(CVPR 2023) [Visual-Language Prompt Tuning with Knowledge-guided Context Optimization](https://arxiv.org/abs/2303.13283) [[Code]](https://github.com/htyao89/KgCoOp) by Yao et al
+
+(CVPR 2023) [MaPLe: Multi-modal Prompt Learning](https://arxiv.org/abs/2210.03117) [[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning) by Khattak et al
+
+(ICCV 2023) [Prompt-aligned Gradient for Prompt Tuning](https://arxiv.org/abs/2205.14865) [[Code]](https://github.com/BeierZhu/Prompt-align) by Zhu et al
 
 (NeurIPS 2023) [Benchmarking robustness of adaptation methods on pre-trained vision-language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2a544e43acb8b954dc5846ff0d77ad5-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/adarobustness/adaptation_robustness) by Chen et al
 
+(TCSVT 2023) [Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](arxiv.org/abs/2211.02219) [[Code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning) by Ma et al
+
+(TMM 2023) [Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model](https://arxiv.org/abs/2208.08340) [[Code]](https://github.com/fanrena/DPT) by Xing et al
+
+(ICLRW 2023) [Variational Prompt Tuning Improves Generalization of Vision-Language Models](https://openreview.net/forum?id=t2qu5Hotedi) by Derakhshani et al
+
+(arXiv 2023) [Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification](https://arxiv.org/abs/2306.02243) by Rong et al
+
+(WACV 2024) [Multitask Vision-Language Prompt Tuning](https://arxiv.org/abs/2211.11720) [[Code]](https://github.com/sIncerass/MVLPT) by Shen et al
+
+(CVPR 2024) [ProTeCt: Prompt Tuning for Taxonomic Open Set Classification](https://arxiv.org/abs/2306.022407) by Wu et al
+
+### Adapter-based Adaptation 
+(arXiv 2021) [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter) by Gao et al
+
+(ECCV 2022) [Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930) [[Code]](https://github.com/gaopengcuhk/Tip-Adapter) by Zhang et al
+
+(BMVC 2022) [SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models](https://arxiv.org/abs/2210.03794) [[Code]](https://github.com/omipan/svl_adapter) by Pantazis et al
+
+(arXiv 2022) [Improving Zero-Shot Models with Label Distribution Priors](https://arxiv.org/abs/2212.00784) by Kahana et al
+
+
+(ICCV 2023) [SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198) [[Code]](https://github.com/vishaal27/SuS-X) by Udandarao et al
+
+(TMM 2023) [SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191) by Peng et al
+
+
+
+
+
+### Other Methods
+
+(arXiv 2021) [VT-CLIP: Enhancing Vision-Language Models with Visual-guided Texts](https://arxiv.org/abs/2112.02399) by Qiu et al
+
+(CVPR 2022) [Robust fine-tuning of zero-shot models](https://arxiv.org/abs/2109.01903) [[Code]](https://github.com/mlfoundations/wise-ft) by Wortsman et al
+
+(ECCV 2022) [Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071) [[Code]](https://github.com/chongzhou96/MaskCLIP) by Zhou et al
+
+(AAAI 2023) [CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169) [[Code]](https://github.com/ZiyuGuo99/CALIP) by Guo et al
+
+
+(CVPR 2023) [Task Residual for Tuning Vision-Language Models](https://arxiv.org/abs/2211.10277) [[Code]](https://github.com/geekyutao/TaskRes) by Yu et al
+
+
+(ICLR 2023) [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) [[Code]](https://github.com/sachit-menon/classify_by_description_release) by Menon et al
+
+(ICLR 2023) [Masked Unsupervised Self-training for Label-free Image Classification](https://arxiv.org/abs/2206.02967) [[Code]](https://github.com/salesforce/MUST) by Li et al
+
+(ICCV 2023) [What does a platypus look like? Generating customized prompts for zero-shot image classification](https://arxiv.org/abs/2209.03320) [[Code]](https://github.com/sarahpratt/CuPL) by Pratt et al
+
+
+
+(ICCV 2023) [Black Box Few-Shot Adaptation for Vision-Language models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) by Ouali et al
+
+(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li et al
+
+
+(CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al
 
 (CVPR 2024) [Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) by Karmanov et al
 
+(CVPRW 2024) [Low-Rank Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18541) by Zanella et al
+
 (TIP 2024) [Adapting Vision-Language Models via Learning to Inject Knowledge](https://ieeexplore.ieee.org/abstract/document/10704586) by Xuan et al
+
+
+
+
+
 
