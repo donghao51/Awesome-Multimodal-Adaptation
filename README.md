@@ -147,6 +147,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (IJCV 2024) [Relative Norm Alignment for Tackling Domain Shift in Deep Multi-modal Classification](https://link.springer.com/article/10.1007/s11263-024-01998-9) by Planamente et al.
 
+(NeurIPS 2024) [Cross-modal Representation Flattening for Multi-modal Domain Generalization](https://nips.cc/virtual/2024/poster/94949) [[Code]](https://github.com/fanyunfeng-bit/Cross-modal-Representation-Flattening-for-MMDG) by Fan et al
 
 ### 3D Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
@@ -209,6 +210,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (IJCV 2024) [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954) [[Code]](https://github.com/zwenyu/colearn-plus) by Zhang et al.
 
+(NeurIPS 2024) [Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation](https://arxiv.org/pdf/2410.21708) [[Code]](https://github.com/XiaRho/MADM) by Xia et al.
+
+
+
 
 (arXiv 2024) [Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2403.10001) [[Code]](https://github.com/EtronTech/VFMSeg) by Xu et al.
 
@@ -268,7 +273,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (WACV 2024) [Multitask Vision-Language Prompt Tuning](https://arxiv.org/abs/2211.11720) [[Code]](https://github.com/sIncerass/MVLPT) by Shen et al
 
-(CVPR 2024) [ProTeCt: Prompt Tuning for Taxonomic Open Set Classification](https://arxiv.org/abs/2306.022407) by Wu et al
+(CVPR 2024) [ProTeCt: Prompt Tuning for Taxonomic Open Set Classification](https://arxiv.org/abs/2306.02240) by Wu et al
 
 ### Adapter-based Adaptation 
 (arXiv 2021) [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter) by Gao et al
@@ -324,7 +329,19 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (TIP 2024) [Adapting Vision-Language Models via Learning to Inject Knowledge](https://ieeexplore.ieee.org/abstract/document/10704586) by Xuan et al
 
 
+(NeurIPS 2024) [Rethinking Misalignment in Vision-Language Model Adaptation from a Causal Perspective](https://arxiv.org/abs/2410.12816) by Zhang et al
 
+
+(NeurIPS 2024) [WATT: Weight Average Test-Time Adaptation of CLIP](https://arxiv.org/abs/2406.13875) [[Code]](https://github.com/Mehrdad-Noori/WATT) by Osowiechi et al
+
+
+
+(NeurIPS 2024) [Frustratingly Easy Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18330) [[Code]](https://github.com/FarinaMatteo/zero) by Farina et al
+
+
+(NeurIPS 2024) [CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment](https://nips.cc/virtual/2024/poster/95489) by Yu et al
+
+(NeurIPS 2024) [Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models](https://arxiv.org/abs/2410.12790) [[Code]](https://github.com/zhangce01/DPE-CLIP) by Zhang et al
 
 
 
