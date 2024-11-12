@@ -159,11 +159,30 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2022) [Prompt Vision Transformer for Domain Generalization](https://arxiv.org/abs/2208.08914) [[Code]](https://github.com/zhengzangw/DoPrompt) by Zheng et al.
 
+(ECCV 2022) [Domain Generalization by Mutual-Information Regularization with Pre-trained Models](https://arxiv.org/abs/2203.10789) [[Code]](https://github.com/khanrc/miro) by Cha et al.
+(ICLR 2022) [Optimal Representations for Covariate Shift](https://arxiv.org/abs/2201.00057) by Ruan et al.
+
+
+
+(ICLR 2023) [Using Language to Extend to Unseen Domains](https://arxiv.org/abs/2210.09520) [[Code]](https://github.com/lisadunlap/LADS) by Dunlap et al.
+
+(ICML 2023) [CLIPood: Generalizing CLIP to Out-of-Distributions](https://arxiv.org/abs/2302.00864) [[Code]](https://github.com/thuml/CLIPood) by Shu et al.
+
+
+
+(ICCV 2023) [PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241) [[Code]](https://github.com/astra-vision/PODA) by Fahes et al.
+
 (ICCV 2023) [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](https://arxiv.org/abs/2308.09139) [[Code]](https://github.com/giaczara/dallv) by Zara et al.
 
 (ICCV 2023) [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.pdf) by Huang et al.
 
 (ICCV 2023) [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_PromptStyler_Prompt-driven_Style_Generation_for_Source-free_Domain_Generalization_ICCV_2023_paper.pdf) by Cho et al.
+
+(ICCV 2023) [PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.pdf) by Lai et al.
+
+
+
+(NeurIPS 2023) [Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation](https://arxiv.org/abs/2209.15210) by Chen et al.
 
 
 
@@ -261,7 +280,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICCV 2023) [Prompt-aligned Gradient for Prompt Tuning](https://arxiv.org/abs/2205.14865) [[Code]](https://github.com/BeierZhu/Prompt-align) by Zhu et al
 
+(ICCV 2023) [Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning](https://arxiv.org/abs/2308.06038) [[Code]](https://github.com/chunmeifeng/DiffTPT) by Feng et al
+
 (NeurIPS 2023) [Benchmarking robustness of adaptation methods on pre-trained vision-language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2a544e43acb8b954dc5846ff0d77ad5-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/adarobustness/adaptation_robustness) by Chen et al
+
+(NeurIPS 2023) [SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models](https://openreview.net/pdf?id=EhdNQiOWgQ) by Ma et al
 
 (TCSVT 2023) [Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](arxiv.org/abs/2211.02219) [[Code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning) by Ma et al
 
@@ -343,5 +366,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models](https://arxiv.org/abs/2410.12790) [[Code]](https://github.com/zhangce01/DPE-CLIP) by Zhang et al
 
+
+(NeurIPS 2024) [UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models](https://arxiv.org/abs/2411.06921) [[Code]](https://github.com/GIT-LJc/UMFC) by Liang et al
 
 
