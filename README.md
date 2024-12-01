@@ -94,7 +94,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICRA 2024) [MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2309.11839) [[Code]](https://github.com/AronCao49/MoPA) by Cao et al.
 
+(NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
 
+(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
 
 
 ### Other Tasks
@@ -156,6 +158,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
 
+(arXiv 2021) [Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains](https://arxiv.org/abs/2111.12853) [[Code]](https://github.com/shogi880/DPLCLIP) by Zhang et al.
+
 
 (arXiv 2022) [Prompt Vision Transformer for Domain Generalization](https://arxiv.org/abs/2208.08914) [[Code]](https://github.com/zhengzangw/DoPrompt) by Zheng et al.
 
@@ -165,6 +169,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (ICLR 2022) [Optimal Representations for Covariate Shift](https://arxiv.org/abs/2201.00057) by Ruan et al.
 
 
+(TNNLS 2023) [Domain Adaptation via Prompt Learning](https://arxiv.org/abs/2202.06687) [[Code]](https://github.com/LeapLabTHU/DAPrompt) by Ge et al.
 
 (ICLR 2023) [Using Language to Extend to Unseen Domains](https://arxiv.org/abs/2210.09520) [[Code]](https://github.com/lisadunlap/LADS) by Dunlap et al.
 
@@ -233,8 +238,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation](https://arxiv.org/pdf/2410.21708) [[Code]](https://github.com/XiaRho/MADM) by Xia et al.
 
+(NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
 
-
+(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
 
 (arXiv 2024) [Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2403.10001) [[Code]](https://github.com/EtronTech/VFMSeg) by Xu et al.
 
