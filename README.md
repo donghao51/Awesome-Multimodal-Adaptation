@@ -121,6 +121,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICMLW 2024) [Two-Level Test-Time Adaptation in Multimodal Learning](https://openreview.net/forum?id=n0lDbIKVAT) by Lei et al.
 
+(arXiv 2025) [Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization](https://openreview.net/forum?id=hj323oR3rw) [[Code]](https://github.com/donghao51/AEO) by Dong et al.
+
 
 
 ### 3D Semantic Segmentation
@@ -187,7 +189,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICCV 2023) [PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.pdf) by Lai et al.
 
-
+(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li et al
 
 (NeurIPS 2023) [Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation](https://arxiv.org/abs/2209.15210) by Chen et al.
 
@@ -239,6 +241,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (NeurIPS 2024) [Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation](https://arxiv.org/pdf/2410.21708) [[Code]](https://github.com/XiaRho/MADM) by Xia et al.
 
 (NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
+
+
+
+(NeurIPS 2024) [CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment](https://openreview.net/pdf?id=MqeCU0tXAY) by Yu et al
+
 
 (ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
 
@@ -320,7 +327,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (TMM 2023) [SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191) by Peng et al
 
-
+(CVPR 2024) [Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) by Karmanov et al
 
 
 
@@ -348,12 +355,12 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICCV 2023) [Black Box Few-Shot Adaptation for Vision-Language models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) by Ouali et al
 
-(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li et al
+
 
 
 (CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al
 
-(CVPR 2024) [Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) by Karmanov et al
+
 
 (CVPRW 2024) [Low-Rank Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18541) by Zanella et al
 
@@ -369,8 +376,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [Frustratingly Easy Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18330) [[Code]](https://github.com/FarinaMatteo/zero) by Farina et al
 
-
-(NeurIPS 2024) [CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment](https://nips.cc/virtual/2024/poster/95489) by Yu et al
 
 (NeurIPS 2024) [Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models](https://arxiv.org/abs/2410.12790) [[Code]](https://github.com/zhangce01/DPE-CLIP) by Zhang et al
 
