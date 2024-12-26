@@ -212,6 +212,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (CVPR 2024) [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.pdf) by Addepalli et al
 
 
+(CVPR 2024) [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://arxiv.org/abs/2404.00710) [[Code]](https://github.com/mainaksingha01/ODG-CLIP) by Singha et al
+
+
 
 (CVPRW 2024) [Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation](https://arxiv.org/abs/2406.09896) [[Code]](https://github.com/tue-mps/vfm-uda) by Englert et al
 
@@ -313,6 +316,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [ProTeCt: Prompt Tuning for Taxonomic Open Set Classification](https://arxiv.org/abs/2306.02240) by Wu et al
 
+(NeurIPS 2024) [Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP](https://arxiv.org/abs/2410.23698) by Huang et al
+
+
+
 ### Adapter-based Adaptation 
 (arXiv 2021) [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter) by Gao et al
 
@@ -325,9 +332,15 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICCV 2023) [SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198) [[Code]](https://github.com/vishaal27/SuS-X) by Udandarao et al
 
+
+(ICCVW 2023) [SAM-Adapter: Adapting Segment Anything in Underperformed Scenes](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.pdf) [[Code]](https://github.com/tianrun-chen/SAM-Adapter-PyTorch/) by Chen et al
+
+
 (TMM 2023) [SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191) by Peng et al
 
 (CVPR 2024) [Efficient Test-Time Adaptation of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf) by Karmanov et al
+
+(MIA 2024) [MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.pdf) [[Code]](https://github.com/cchen-cc/MA-SAM) by Chen et al
 
 
 
