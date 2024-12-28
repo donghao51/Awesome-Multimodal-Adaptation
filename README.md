@@ -214,6 +214,19 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://arxiv.org/abs/2404.00710) [[Code]](https://github.com/mainaksingha01/ODG-CLIP) by Singha et al
 
+(CVPR 2024) [Unified Language-driven Zero-shot Domain Adaptation](https://arxiv.org/pdf/2404.07155) [[Code]](https://github.com/Yangsenqiao/ULDA/) by Yang et al
+
+(CVPR 2024) [Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation](https://arxiv.org/pdf/2403.06946) [[Code]](https://github.com/TL-UESTC/UniMoS) by Li et al
+
+
+
+
+(CVPR 2024) [Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization](https://arxiv.org/pdf/2402.18447) by Li et al
+
+
+
+(CVPR 2024) [Any-Shift Prompting for Generalization over Distributions](https://arxiv.org/pdf/2402.10099) by Xiao et al
+
 
 
 (CVPRW 2024) [Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation](https://arxiv.org/abs/2406.09896) [[Code]](https://github.com/tue-mps/vfm-uda) by Englert et al
@@ -318,6 +331,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP](https://arxiv.org/abs/2410.23698) by Huang et al
 
+(TMLR 2024) [Unleashing the Power of Visual Prompting At the Pixel Level](https://arxiv.org/abs/2212.10556) [[Code]](https://github.com/UCSC-VLAA/EVP) by Wu et al
 
 
 ### Adapter-based Adaptation 
@@ -373,6 +387,13 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al
 
+(CVPR 2024) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models](https://arxiv.org/pdf/2403.17589) [[Code]](https://github.com/YBZh/DMN) by Zhang et al
+
+(CVPR 2024) [X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalizations](https://arxiv.org/pdf/2403.19811) [[Code]](https://github.com/annusha/xmic) by Kukleva et al
+
+
+
+(CVPR 2024) [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/pdf/2402.10099) by Zanella et al
 
 
 (CVPRW 2024) [Low-Rank Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18541) by Zanella et al
@@ -394,5 +415,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 (NeurIPS 2024) [UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models](https://arxiv.org/abs/2411.06921) [[Code]](https://github.com/GIT-LJc/UMFC) by Liang et al
+
+
+(NeurIPS 2024) [BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/abs/2410.15430) [[Code]](https://github.com/taolinzhang/BoostAdapter) by Zhang et al
 
 
