@@ -329,6 +329,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [ProTeCt: Prompt Tuning for Taxonomic Open Set Classification](https://arxiv.org/abs/2306.02240) by Wu et al
 
+(ECCV 2024) [Cascade Prompt Learning for Vision-Language Model Adaptation](https://arxiv.org/abs/2409.17805) by Wu et al
+
+
+
 (NeurIPS 2024) [Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP](https://arxiv.org/abs/2410.23698) by Huang et al
 
 (TMLR 2024) [Unleashing the Power of Visual Prompting At the Pixel Level](https://arxiv.org/abs/2212.10556) [[Code]](https://github.com/UCSC-VLAA/EVP) by Wu et al
