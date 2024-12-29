@@ -1,28 +1,78 @@
-# Awesome-Multimodal-Adaptation
+<div align="center">
+
+<h1>From Classical Methods to Foundation Models: A Survey on Multimodal Domain Adaptation and Generalization</h1>
+
+<div>
+    <a href='https://sites.google.com/view/dong-hao/' target='_blank'>Hao Dong</a><sup>1</sup>&emsp;
+    <a href='https://' target='_blank'>Moru Liu</a><sup>2</sup>&emsp;
+    <a href='https://chatzi.ibk.ethz.ch/about-us/people/prof-dr-eleni-chatzi.html' target='_blank'>Eleni Chatzi</a><sup>1</sup>&emsp;
+    <a href='https://people.epfl.ch/olga.fink?lang=en' target='_blank'>Olga Fink</a><sup>3</sup>
+</div>
+<div>
+    <sup>1</sup>ETH Zurich, <sup>2</sup>TUM, <sup>3</sup>EPFL
+</div>
+
+
+<div>
+    <h4 align="center">
+        • <a href="https://arxiv.org/abs/" target='_blank'>arXiv 2025</a> •
+    </h4>
+</div>
+
+
+
+<div style="text-align:center">
+<img src="framework.jpg"  width="100%" height="100%">
+</div>
+
+---
+
+</div>
+
+
+Five adaptation scenarios are discussed in this survey. (a) Multimodal Domain Adaptation, (b) Multimodal Test-Time Adaptation, and (c) Multimodal Domain Generalization, which represent classical multimodal settings with varying access to source and target domain data. Additionally, we examine (d) unimodal domain adaptation and generalization assisted by multimodal foundation models, and (e) the adaptation of multimodal foundation models to downstream tasks.
+
+
+
+
+
+## Citation
+
+If you find our work useful in your research please consider citing our paper:
+
+
+```
+@article{dong2025mmdasurvey,
+	author   = {Dong, Hao and Liu, Moru and Chatzi, Eleni and Fink, Olga},
+	title    = {From Classical Methods to Foundation Models: A Survey on Multimodal Domain Adaptation and Generalization},
+	journal  = {arXiv preprint},
+	year     = {2025},
+}
+```
 
 ## Table of Contents
 
-- [Awesome-Multimodal-Adaptation](#awesome-multimodal-adaptation)
-  - [Table of Contents](#table-of-contents)
-  - [Multimodal Domain Adaptation](#multimodal-domain-adaptation)
-    - [Action Recognition](#action-recognition)
-    - [3D Semantic Segmentation](#3d-semantic-segmentation)
-    - [Other Tasks](#other-tasks)
-  - [Multimodal Test-time Adaptation](#multimodal-test-time-adaptation)
-    - [Action Recognition](#action-recognition-1)
-    - [3D Semantic Segmentation](#3d-semantic-segmentation-1)
-    - [Other Tasks](#other-tasks-1)
-  - [Multimodal Domain Generalization](#multimodal-domain-generalization)
-    - [Action Recognition](#action-recognition-2)
-    - [3D Semantic Segmentation](#3d-semantic-segmentation-2)
-  - [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
-    - [Data Augmentation](#data-augmentation)
-    - [Knowledge Distillation](#knowledge-distillation)
-    - [Learning Strategies](#learning-strategies)
-  - [Adaptation of Multimodal Foundation Models](#adaptation-of-multimodal-foundation-models)
-    - [Prompt-based Adaptation](#prompt-based-adaptation)
-    - [Adapter-based Adaptation](#adapter-based-adaptation)
-    - [Other Adaptation Methods](#other-adaptation-methods)
+- [Citation](#citation)
+- [Table of Contents](#table-of-contents)
+- [Multimodal Domain Adaptation](#multimodal-domain-adaptation)
+  - [Action Recognition](#action-recognition)
+  - [3D Semantic Segmentation](#3d-semantic-segmentation)
+  - [Other Tasks](#other-tasks)
+- [Multimodal Test-time Adaptation](#multimodal-test-time-adaptation)
+  - [Action Recognition](#action-recognition-1)
+  - [3D Semantic Segmentation](#3d-semantic-segmentation-1)
+  - [Other Tasks](#other-tasks-1)
+- [Multimodal Domain Generalization](#multimodal-domain-generalization)
+  - [Action Recognition](#action-recognition-2)
+  - [3D Semantic Segmentation](#3d-semantic-segmentation-2)
+- [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
+  - [Data Augmentation](#data-augmentation)
+  - [Knowledge Distillation](#knowledge-distillation)
+  - [Learning Strategies](#learning-strategies)
+- [Adaptation of Multimodal Foundation Models](#adaptation-of-multimodal-foundation-models)
+  - [Prompt-based Adaptation](#prompt-based-adaptation)
+  - [Adapter-based Adaptation](#adapter-based-adaptation)
+  - [Other Adaptation Methods](#other-adaptation-methods)
 
 
 
@@ -500,5 +550,6 @@ CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization an
 
 
 (NeurIPS 2024) [BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/abs/2410.15430) [[Code]](https://github.com/taolinzhang/BoostAdapter) by Zhang et al.
+
 
 
