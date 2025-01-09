@@ -515,7 +515,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://arxiv.org/pdf/2405.16417) [[Code]](https://github.com/LinLLLL/CRoFT) by Zhu et al.
 
-CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection
 
 (CVPR 2024) [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://arxiv.org/abs/2312.03502) by Zhang et al.
 
@@ -550,6 +549,9 @@ CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization an
 
 
 (NeurIPS 2024) [BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/abs/2410.15430) [[Code]](https://github.com/taolinzhang/BoostAdapter) by Zhang et al.
+
+
+(arXiv 2025) [Online Gaussian Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2501.04352) [[Code]](https://github.com/cfuchs2023/OGA) by Fuchs et al.
 
 
 
