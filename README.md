@@ -174,7 +174,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICMLW 2024) [Two-Level Test-Time Adaptation in Multimodal Learning](https://openreview.net/forum?id=n0lDbIKVAT) by Lei et al.
 
-(arXiv 2025) [Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization](https://openreview.net/forum?id=hj323oR3rw) [[Code]](https://github.com/donghao51/AEO) by Dong et al.
+(ICLR 2025) [Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization](https://openreview.net/forum?id=hj323oR3rw) [[Code]](https://github.com/donghao51/AEO) by Dong et al.
+
+(ICLR 2025) [Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://openreview.net/forum?id=1L52bHEL5d) by Ramazanova et al.
+
+(ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by XXX et al.
 
 
 
@@ -521,6 +525,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (CVPR 2024) [Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models](https://arxiv.org/pdf/2403.17589) [[Code]](https://github.com/YBZh/DMN) by Zhang et al.
 
 (CVPR 2024) [X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalizations](https://arxiv.org/pdf/2403.19811) [[Code]](https://github.com/annusha/xmic) by Kukleva et al.
+
+(CVPR 2024) [A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Silva-Rodriguez_A_Closer_Look_at_the_Few-Shot_Adaptation_of_Large_Vision-Language_CVPR_2024_paper.pdf) [[Code]](https://github.com/jusiro/CLAP) by Silva-Rodriguez et al.
 
 
 
