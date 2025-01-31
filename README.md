@@ -4,7 +4,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/" target='_blank'>arXiv 2025</a> •
+        • <a href="https://arxiv.org/abs/2501.18592" target='_blank'>arXiv 2025</a> •
     </h4>
 </div>
 
@@ -27,14 +27,14 @@ Five multimodal adaptation scenarios are discussed in this survey. (a) Multimoda
 
 ## Citation
 
-If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/):
+If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2501.18592):
 
 
 ```
 @article{dong2025mmdasurvey,
 	author   = {Dong, Hao and Liu, Moru and Zhou, Kaiyang and Chatzi, Eleni and Kannala, Juho and Stachniss, Cyrill and Fink, Olga},
 	title    = {Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models},
-	journal  = {arXiv preprint},
+	journal  = {arXiv preprint arXiv:2501.18592},
 	year     = {2025},
 }
 ```
