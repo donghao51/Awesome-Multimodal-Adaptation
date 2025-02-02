@@ -4,7 +4,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/2501.18592" target='_blank'>arXiv 2025</a> •
+        • <a href="https://arxiv.org/abs/" target='_blank'>arXiv 2025</a> •
     </h4>
 </div>
 
@@ -27,14 +27,14 @@ Five multimodal adaptation scenarios are discussed in this survey. (a) Multimoda
 
 ## Citation
 
-If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2501.18592):
+If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/):
 
 
 ```
 @article{dong2025mmdasurvey,
 	author   = {Dong, Hao and Liu, Moru and Zhou, Kaiyang and Chatzi, Eleni and Kannala, Juho and Stachniss, Cyrill and Fink, Olga},
 	title    = {Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models},
-	journal  = {arXiv preprint arXiv:2501.18592},
+	journal  = {arXiv preprint},
 	year     = {2025},
 }
 ```
@@ -487,6 +487,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2023) [Improving Zero-shot Generalization and Robustness of Multi-modal Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Improving_Zero-Shot_Generalization_and_Robustness_of_Multi-Modal_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/gyhandy/Hierarchy-CLIP) by Ge et al.
 
+(CVPR 2023) [Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models](https://arxiv.org/abs/2301.06267) by Lin et al.
 
 
 (ICLR 2023) [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) [[Code]](https://github.com/sachit-menon/classify_by_description_release) by Menon et al.
@@ -521,6 +522,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/pdf/2402.10099) by Zanella et al.
 
+(CVPR 2024) [The Neglected Tails in Vision-Language Models](https://arxiv.org/pdf/2401.12425) by Parashar et al.
 
 (CVPRW 2024) [Low-Rank Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2405.18541) by Zanella et al.
 
