@@ -140,6 +140,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
 
+(ICRA 2025) [SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation](https://arxiv.org/abs/2502.00960) by Yang et al.
+
 
 ### Other Tasks
 
