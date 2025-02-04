@@ -22,7 +22,7 @@
 Five multimodal adaptation scenarios are discussed in this survey. (a) Multimodal domain adaptation, (b) Multimodal test-time adaptation, and (c) Multimodal domain generalization, which represent traditional multimodal settings with varying access to source and target domain data. Additionally, we examine more recent foundation models including (d) unimodal domain adaptation and generalization assisted by multimodal foundation models, and (e) the adaptation of multimodal foundation models to downstream tasks.
 
 
-
+🤗 Contributions to new resources and articles are always welcome!
 
 
 ## Citation
