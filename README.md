@@ -22,9 +22,6 @@
 Five multimodal adaptation scenarios are discussed in this survey. (a) Multimodal domain adaptation, (b) Multimodal test-time adaptation, and (c) Multimodal domain generalization, which represent traditional multimodal settings with varying access to source and target domain data. Additionally, we examine more recent foundation models including (d) unimodal domain adaptation and generalization assisted by multimodal foundation models, and (e) the adaptation of multimodal foundation models to downstream tasks.
 
 
-🤗 Contributions to new resources and articles are always welcome!
-
-
 ## Citation
 
 If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2501.18592):
@@ -135,6 +132,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (AAAI 2023) [Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/25448) by Zhang et al.
 
 (ICRA 2024) [MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2309.11839) [[Code]](https://github.com/AronCao49/MoPA) by Cao et al.
+
+(ECCV 2024) [MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation](https://arxiv.org/pdf/2408.16478) by Yang et al.
 
 (NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
 
