@@ -169,7 +169,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICLR 2025) [Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://openreview.net/forum?id=1L52bHEL5d) by Ramazanova et al.
 
-(ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by XXX et al.
+(ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by Guo et al.
 
 
 
