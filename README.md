@@ -147,6 +147,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (TMM 2019) [Deep Multi-Modality Adversarial Networks for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8656504) by Ma et al.
 
+(JBHI 2022) [A Novel 3D Unsupervised Domain Adaptation Framework for Cross-Modality Medical Image Segmentation]([https://arxiv.org/abs/2309.11839](https://ieeexplore.ieee.org/abstract/document/9741336)) [[Code]](https://github.com/Kaiseem/DAR-UNet) by Yao et al.
+
 (CVPR 2023) [OSAN: A One-Stage Alignment Network to Unify Multimodal Alignment and Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_OSAN_A_One-Stage_Alignment_Network_To_Unify_Multimodal_Alignment_and_CVPR_2023_paper.pdf) by Liu et al.
 
 (ACL 2024) [Amanda: Adaptively Modality-Balanced Domain Adaptation for Multimodal Emotion Recognition](https://aclanthology.org/2024.findings-acl.859/) by Zhang et al.
