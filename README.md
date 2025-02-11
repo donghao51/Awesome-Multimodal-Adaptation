@@ -365,6 +365,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2024) [Transitive Vision-Language Prompt Learning for Domain Generalization](https://arxiv.org/abs/2404.18758) by Chen et al.
 
+(ICLR 2025) [DynAlign: Unsupervised Dynamic Taxonomy Alignment for Cross-Domain Segmentation](https://arxiv.org/abs/2501.16410) by Sun et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
