@@ -189,6 +189,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [Test-Time Adaptation for Depth Completion](https://arxiv.org/abs/2402.03312) [[Code]](https://github.com/seobbro/TTA-depth-completion) by Park et al.
 
+(ICLR 2025) [Test-time Adaptation for Cross-modal Retrieval with Query Shift](https://openreview.net/forum?id=BmG88rONaU) by Li et al.
+
 
 ## Multimodal Domain Generalization
 ### Action Recognition
