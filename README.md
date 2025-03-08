@@ -173,7 +173,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by Guo et al.
 
-(arXiv 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://openreview.net/forum?id=rObkvzJxTG) by Zhao et al.
+(arXiv 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) by Zhao et al.
 
 
 
