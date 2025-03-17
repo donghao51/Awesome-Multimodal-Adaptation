@@ -234,6 +234,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control](https://arxiv.org/abs/2312.03048) [[Code]](https://github.com/prs-eth/DGInStyle) by Jia et al.
 
+(CVPR 2025) [DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation](https://arxiv.org/pdf/2503.11122) by Lin et al.
 
 ### Knowledge Distillation
 
