@@ -156,6 +156,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (WACVW 2024) [Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers](https://arxiv.org/abs/2305.14269) by Rizzoli et al.
 
 
+(CVPR 2025) [MODfinity Unsupervised Domain Adaptation with Multimodal Information Flow](https://cvpr.thecvf.com/virtual/2025/poster/34951) by Liu et al.
+
 
 
 ## Multimodal Test-time Adaptation
@@ -372,6 +374,22 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2024) [Transitive Vision-Language Prompt Learning for Domain Generalization](https://arxiv.org/abs/2404.18758) by Chen et al.
 
 (ICLR 2025) [DynAlign: Unsupervised Dynamic Taxonomy Alignment for Cross-Domain Segmentation](https://arxiv.org/abs/2501.16410) by Sun et al.
+
+(ICLR 2025) [Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation](https://openreview.net/forum?id=TD3SGJfBC7) by Chi et al.
+
+(CVPR 2025) [OSLOPROMPT: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP](https://has97.github.io/projects/osloprompt/) by Hassan et al.
+
+(CVPR 2025) [Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://cvpr.thecvf.com/virtual/2025/poster/33611) by Xu et al.
+
+(CVPR 2025) [Domain Generalization in CLIP via Learning with Diverse Text Prompts](https://cvpr.thecvf.com/virtual/2025/poster/33717) by Wen et al.
+
+(CVPR 2025) [Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation](https://cvpr.thecvf.com/virtual/2025/poster/34783) by Vuong et al.
+
+(CVPR 2025) [SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/35137) by Basak et al.
+
+
+(CVPR 2025) [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment](https://arxiv.org/abs/2406.04295) by Guo et al.
+
 
 
 ## Adaptation of Multimodal Foundation Models 
