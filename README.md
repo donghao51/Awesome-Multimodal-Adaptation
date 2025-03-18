@@ -390,6 +390,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment](https://arxiv.org/abs/2406.04295) by Guo et al.
 
+(arXiv 2025) [LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2503.12780) by Liu et al.
+
 
 
 ## Adaptation of Multimodal Foundation Models 
@@ -469,6 +471,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (NeurIPS 2024) [Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP](https://arxiv.org/abs/2410.23698) by Huang et al.
 
 (TMLR 2024) [Unleashing the Power of Visual Prompting At the Pixel Level](https://arxiv.org/abs/2212.10556) [[Code]](https://github.com/UCSC-VLAA/EVP) by Wu et al.
+
+(CVPR 2025) [DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models](https://arxiv.org/pdf/2503.13443) by Li et al.
 
 
 ### Adapter-based Adaptation 
@@ -579,6 +583,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 (arXiv 2025) [Online Gaussian Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2501.04352) [[Code]](https://github.com/cfuchs2023/OGA) by Fuchs et al.
+
+(arXiv 2025) [TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification](https://arxiv.org/pdf/2503.12206) by Munir et al.
 
 
 
