@@ -175,8 +175,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by Guo et al.
 
-(arXiv 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) by Zhao et al.
+(arXiv 2024) [Analytic Continual Test-Time Adaptation for Multi-Modality Corruption](https://arxiv.org/abs/2410.22373) by Zhang et al.
 
+(arXiv 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) by Zhao et al.
 
 
 
@@ -190,9 +191,17 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 ### Other Tasks
+(arXiv 2023) [Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation](https://arxiv.org/abs/2307.04470) by Liu et al.
+
 (AAAI 2024) [Heterogeneous Test-Time Training for Multi-Modal Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/28398) by Wang et al.
 
+(IJCAI 2024) [ATTA: adaptive test-time adaptation for multi-modal sleep stage classification](https://www.ijcai.org/proceedings/2024/0650.pdf) by Jia et al.
+
 (CVPR 2024) [Test-Time Adaptation for Depth Completion](https://arxiv.org/abs/2402.03312) [[Code]](https://github.com/seobbro/TTA-depth-completion) by Park et al.
+
+(arXiv 2024) [Bridging the Gap for Test-Time Multimodal Sentiment Analysis](https://arxiv.org/pdf/2412.07121) by Guo et al.
+
+
 
 (ICLR 2025) [Test-time Adaptation for Cross-modal Retrieval with Query Shift](https://openreview.net/forum?id=BmG88rONaU) by Li et al.
 
@@ -213,6 +222,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
+### Other Tasks
+
+(TGRS 2024) [Instance-Wise Domain Generalization for Cross-Scene Wetland Classification With Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10806800) by Guo et al.
 
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
