@@ -52,6 +52,7 @@ If you find our work useful in your research please consider citing our [paper](
 - [Multimodal Domain Generalization](#multimodal-domain-generalization)
   - [Action Recognition](#action-recognition-2)
   - [Semantic Segmentation](#semantic-segmentation-2)
+  - [Other Tasks](#other-tasks-2)
 - [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
   - [Data Augmentation](#data-augmentation)
   - [Knowledge Distillation](#knowledge-distillation)
