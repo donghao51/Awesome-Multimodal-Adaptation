@@ -406,6 +406,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2025) [LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2503.12780) by Liu et al.
 
 
+(arXiv 2025) [ViLAaD: Enhancing "Attracting and Dispersing'' Source-Free Domain Adaptation with Vision-and-Language Model](https://arxiv.org/abs/2503.23529) by Tarashima et al.
+
+
+(arXiv 2025) [Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection](https://arxiv.org/abs/2503.23220) by Lavoie et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
