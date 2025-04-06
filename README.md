@@ -227,6 +227,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 ### Other Tasks
 
+(ICASSP 2023) [Multi-Modal Domain Generalization for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10095723) by Zhang et al.
+
 (TGRS 2024) [Instance-Wise Domain Generalization for Cross-Scene Wetland Classification With Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10806800) by Guo et al.
 
 
