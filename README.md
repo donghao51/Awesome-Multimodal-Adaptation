@@ -220,6 +220,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [Cross-modal Representation Flattening for Multi-modal Domain Generalization](https://openreview.net/pdf?id=UixTytSVOl) [[Code]](https://github.com/fanyunfeng-bit/Cross-modal-Representation-Flattening-for-MMDG) by Fan et al.
 
+(ICASSP 2025) [Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition](https://www.arxiv.org/pdf/2409.09611) by Gungor et al.
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
