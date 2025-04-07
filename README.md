@@ -360,6 +360,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286) [[Code]](https://github.com/renytek13/Soft-Prompt-Generation-with-CGAN) by Bai et al.
 
+(ECCV 2024) [Textual Query-Driven Mask Transformer for Domain Generalized Segmentation](https://arxiv.org/pdf/2407.09033) [[Code]](https://github.com/ByeongHyunPak/tqdm) by Pak et al.
+
+(ACCV 2024) [Strong but simple: A Baseline for Domain Generalized Dense Perception by CLIP-based Transfer Learning](https://arxiv.org/pdf/2312.02021) [[Code]](https://github.com/VLTSeg/VLTSeg) by Hümmer et al.
+
 
 
 
