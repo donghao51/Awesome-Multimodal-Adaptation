@@ -375,10 +375,15 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (IJCV 2024) [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954) [[Code]](https://github.com/zwenyu/colearn-plus) by Zhang et al.
 
+
+(ICML 2024) [Controllable Prompt Tuning For Balancing Group Distributional Robustness](https://arxiv.org/abs/2403.02695) by Phan et al.
+
 (NeurIPS 2024) [Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation](https://arxiv.org/pdf/2410.21708) [[Code]](https://github.com/XiaRho/MADM) by Xia et al.
 
 (NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
 
+
+(NeurIPS 2024) [Enhancing Domain Adaptation through Prompt Gradient Alignment](https://arxiv.org/abs/2406.09353) [[Code]](https://github.com/VietHoang1512/PGA) by Phan et al.
 
 
 (NeurIPS 2024) [CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment](https://openreview.net/pdf?id=MqeCU0tXAY) by Yu et al.
