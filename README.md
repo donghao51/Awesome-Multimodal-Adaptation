@@ -426,6 +426,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection](https://arxiv.org/abs/2503.23220) by Lavoie et al.
 
+(arXiv 2025) [Vision and Language Integration for Domain Generalization](https://arxiv.org/abs/2504.12966) by Wang et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
