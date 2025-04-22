@@ -430,6 +430,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2504.12753) by Chen et al.
 
+(arXiv 2025) [Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering](https://arxiv.org/pdf/2504.14224) by Li et al.
 
 ## Adaptation of Multimodal Foundation Models 
 
