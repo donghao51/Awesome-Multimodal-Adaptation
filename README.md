@@ -178,7 +178,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2024) [Analytic Continual Test-Time Adaptation for Multi-Modality Corruption](https://arxiv.org/abs/2410.22373) by Zhang et al.
 
-(arXiv 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) by Zhao et al.
+(AAAI 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) [[code]](https://github.com/YushengZhao/ABPEM) by Zhao et al.
 
 
 
