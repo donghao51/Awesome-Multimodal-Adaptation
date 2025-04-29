@@ -432,6 +432,12 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering](https://arxiv.org/pdf/2504.14224) by Li et al.
 
+(arXiv 2025) [Boosting Single-Domain Generalized Object Detection via Vision-Language Knowledge Interactiong](https://arxiv.org/pdf/2504.19086) by Xu et al.
+
+(arXiv 2025) [What is the Added Value of UDA in the VFM Era?](https://arxiv.org/pdf/2504.18190) by Englert et al.
+
+(arXiv 2025) [FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing](https://arxiv.org/pdf/2504.16433) by Gunduboina et al.
+
 ## Adaptation of Multimodal Foundation Models 
 
 ### Prompt-based Adaptation 
