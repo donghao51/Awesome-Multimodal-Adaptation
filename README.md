@@ -157,6 +157,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (WACVW 2024) [Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers](https://arxiv.org/abs/2305.14269) by Rizzoli et al.
 
 
+(AAAI 2024) [CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection](https://arxiv.org/abs/2403.03721) by Chang et al.
+
 (CVPR 2025) [MODfinity Unsupervised Domain Adaptation with Multimodal Information Flow](https://cvpr.thecvf.com/virtual/2025/poster/34951) by Liu et al.
 
 
