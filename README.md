@@ -257,6 +257,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation](https://arxiv.org/pdf/2503.11122) by Lin et al.
 
+(arXiv 2025) [Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2505.07219) by Qin et al.
+
 ### Knowledge Distillation
 
 (ICCV 2023) [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.pdf) by Huang et al.
