@@ -233,6 +233,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (TGRS 2024) [Instance-Wise Domain Generalization for Cross-Scene Wetland Classification With Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10806800) by Guo et al.
 
+(arXiv 2025) [Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing](https://arxiv.org/pdf/2505.09484) by Ma et al.
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
 
