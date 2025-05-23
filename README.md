@@ -277,6 +277,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation](https://arxiv.org/abs/2407.03056) [[Code]](https://github.com/miccunifi/KDPL) by Mistretta et al.
 
+(CVPR 2025) [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](https://arxiv.org/pdf/2505.16778) by Chen et al.
+
 
 
 ### Learning Strategies
