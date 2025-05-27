@@ -446,6 +446,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing](https://arxiv.org/pdf/2504.16433) by Gunduboina et al.
 
+(arXiv 2025) [Dual-Path Stable Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2505.18770) by Zhang et al.
+
+
+
 ## Adaptation of Multimodal Foundation Models 
 
 ### Prompt-based Adaptation 
