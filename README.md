@@ -277,6 +277,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation](https://arxiv.org/abs/2407.03056) [[Code]](https://github.com/miccunifi/KDPL) by Mistretta et al.
 
+(ACM MM 2024) [Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector](https://arxiv.org/pdf/2506.04211) by He et al.
+
+
+
 (CVPR 2025) [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](https://arxiv.org/pdf/2505.16778) by Chen et al.
 
 
@@ -415,7 +419,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://cvpr.thecvf.com/virtual/2025/poster/33611) by Xu et al.
 
-(CVPR 2025) [Domain Generalization in CLIP via Learning with Diverse Text Prompts](https://cvpr.thecvf.com/virtual/2025/poster/33717) by Wen et al.
+(CVPR 2025) [Domain Generalization in CLIP via Learning with Diverse Text Prompts](https://openaccess.thecvf.com//content/CVPR2025/papers/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.pdf) by Wen et al.
 
 (CVPR 2025) [Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation](https://cvpr.thecvf.com/virtual/2025/poster/34783) by Vuong et al.
 
@@ -644,5 +648,6 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification](https://arxiv.org/pdf/2503.12206) by Munir et al.
 
+(CVPR 2025) [On the Out-Of-Distribution Generalization of Large Multimodal Models](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhang_On_the_Out-Of-Distribution_Generalization_of_Large_Multimodal_Models_CVPR_2025_paper.pdf) by Zhang et al.
 
 
