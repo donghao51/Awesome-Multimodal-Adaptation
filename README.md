@@ -452,6 +452,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Dual-Path Stable Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2505.18770) by Zhang et al.
 
+(arXiv 2025) [Harmonizing and Merging Source Models for CLIP-based Domain Generalization](https://arxiv.org/pdf/2506.09446) by Ding et al.
+
+(arXiv 2025) [SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation](https://arxiv.org/pdf/2506.09403) by Liu et al.
+
+(arXiv 2025) [Vireo: Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/pdf/2506.09881) by Chen et al.
 
 
 ## Adaptation of Multimodal Foundation Models 
