@@ -430,6 +430,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation](https://arxiv.org/pdf/2504.03193) by Zhang et al.
 
+(AAAI 2025) [Target Semantics Clustering via Text Representations for Robust Universal Domain Adaptation](https://arxiv.org/pdf/2506.03521) by He et al.
+
 (arXiv 2025) [LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2503.12780) by Liu et al.
 
 
