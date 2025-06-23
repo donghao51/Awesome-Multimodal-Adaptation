@@ -263,6 +263,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2505.07219) by Qin et al.
 
+(arXiv 2025) [Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments](https://arxiv.org/pdf/2506.16994) by Farrukh et al.
+
 ### Knowledge Distillation
 
 (ICCV 2023) [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_A_Sentence_Speaks_a_Thousand_Images_Domain_Generalization_through_Distilling_ICCV_2023_paper.pdf) by Huang et al.
