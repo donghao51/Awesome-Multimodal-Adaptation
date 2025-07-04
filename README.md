@@ -464,6 +464,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Vireo: Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://arxiv.org/pdf/2506.09881) by Chen et al.
 
+(arXiv 2025) [Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization](https://arxiv.org/pdf/2507.02288) by Cheng et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
