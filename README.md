@@ -468,6 +468,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization](https://arxiv.org/pdf/2507.02288) by Cheng et al.
 
+(arXiv 2025) [Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization](https://arxiv.org/pdf/2507.12851) by Wang et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
@@ -658,11 +660,13 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/abs/2410.15430) [[Code]](https://github.com/taolinzhang/BoostAdapter) by Zhang et al.
 
+(CVPR 2025) [On the Out-Of-Distribution Generalization of Large Multimodal Models](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhang_On_the_Out-Of-Distribution_Generalization_of_Large_Multimodal_Models_CVPR_2025_paper.pdf) by Zhang et al.
 
 (arXiv 2025) [Online Gaussian Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2501.04352) [[Code]](https://github.com/cfuchs2023/OGA) by Fuchs et al.
 
 (arXiv 2025) [TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification](https://arxiv.org/pdf/2503.12206) by Munir et al.
 
-(CVPR 2025) [On the Out-Of-Distribution Generalization of Large Multimodal Models](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhang_On_the_Out-Of-Distribution_Generalization_of_Large_Multimodal_Models_CVPR_2025_paper.pdf) by Zhang et al.
+(arXiv 2025) [GLAD: Generalizable Tuning for Vision-Language Models](https://arxiv.org/pdf/2507.13089) by Peng et al.
+
 
 
