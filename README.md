@@ -162,6 +162,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [MODfinity Unsupervised Domain Adaptation with Multimodal Information Flow](https://cvpr.thecvf.com/virtual/2025/poster/34951) by Liu et al.
 
+(ACL 2025) [Adversarial Alignment with Anchor Dragging Drift (A3D2): Multimodal Domain Adaptation with Partially Shifted Modalities](https://aclanthology.org/2025.acl-long.967.pdf) by Sun et al.
+
 
 
 ## Multimodal Test-time Adaptation
