@@ -472,6 +472,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization](https://arxiv.org/pdf/2507.12851) by Wang et al.
 
+(arXiv 2025) [Rein++: Efficient Generalization and Adaptation for Semantic Segmentation with Vision Foundation Models](https://www.arxiv.org/abs/2508.01667) by Wei et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
