@@ -23,6 +23,8 @@ Five multimodal adaptation scenarios are discussed in this survey. (a) Multimoda
 
 🤗 Contributions to new resources and articles are always welcome!
 
+**Update**: We have a new survey paper on [Adapting Vision-Language Models Without Labels](https://www.arxiv.org/abs/2508.05547)
+
 ## Citation
 
 If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2501.18592):
@@ -473,6 +475,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2025) [Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization](https://arxiv.org/pdf/2507.12851) by Wang et al.
 
 (arXiv 2025) [Rein++: Efficient Generalization and Adaptation for Semantic Segmentation with Vision Foundation Models](https://www.arxiv.org/abs/2508.01667) by Wei et al.
+
+(arXiv 2025) [TRUST: Leveraging Text Robustness for Unsupervised Domain Adaptation](https://www.arxiv.org/abs/2508.06452) by Litrico et al.
+
 
 
 ## Adaptation of Multimodal Foundation Models 
