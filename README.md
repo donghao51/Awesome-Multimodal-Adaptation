@@ -442,6 +442,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (AAAI 2025) [Target Semantics Clustering via Text Representations for Robust Universal Domain Adaptation](https://arxiv.org/pdf/2506.03521) by He et al.
 
+(TPAMI 2025) [Unified modality separation: A vision-language framework for unsupervised domain adaptation](https://arxiv.org/abs/2508.04987) by Li et al.
+
+
 (arXiv 2025) [LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2503.12780) by Liu et al.
 
 
