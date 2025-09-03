@@ -145,6 +145,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICRA 2025) [SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation](https://arxiv.org/abs/2502.00960) by Yang et al.
 
+(ICRA 2025) [Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation](https://arxiv.org/abs/2509.00379) by Kang et al.
+
 (arXiv 2025) [EGFormer: Towards Efficient and Generalizable Multimodal Semantic Segmentation](https://arxiv.org/pdf/2505.14014) by Zhang et al.
 
 ### Other Tasks
