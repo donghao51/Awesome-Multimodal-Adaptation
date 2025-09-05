@@ -487,6 +487,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [IELDG: Suppressing Domain-Specific Noise with Inverse Evolution Layers for Domain Generalized Semantic Segmentation](https://arxiv.org/pdf/2508.19604) by Fan et al.
 
+(arXiv 2025) [DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval](https://www.arxiv.org/abs/2509.04193) by Yang et al.
 
 
 ## Adaptation of Multimodal Foundation Models 
