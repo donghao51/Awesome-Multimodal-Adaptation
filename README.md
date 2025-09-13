@@ -203,7 +203,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 ### Other Tasks
-(arXiv 2023) [Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation](https://arxiv.org/abs/2307.04470) by Liu et al.
+(TAI 2023) [Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation](https://arxiv.org/abs/2307.04470) by Liu et al.
 
 (AAAI 2024) [Heterogeneous Test-Time Training for Multi-Modal Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/28398) by Wang et al.
 
@@ -211,7 +211,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2024) [Test-Time Adaptation for Depth Completion](https://arxiv.org/abs/2402.03312) [[Code]](https://github.com/seobbro/TTA-depth-completion) by Park et al.
 
-(arXiv 2024) [Bridging the Gap for Test-Time Multimodal Sentiment Analysis](https://arxiv.org/pdf/2412.07121) by Guo et al.
+(AAAI 2025) [Bridging the Gap for Test-Time Multimodal Sentiment Analysis](https://arxiv.org/pdf/2412.07121) by Guo et al.
 
 
 
