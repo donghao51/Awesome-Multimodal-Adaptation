@@ -448,6 +448,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (TPAMI 2025) [Unified modality separation: A vision-language framework for unsupervised domain adaptation](https://arxiv.org/abs/2508.04987) by Li et al.
 
+(ACMMM 2025) [Cross-Domain Attribute Alignment with CLIP: A Rehearsal-Free Approach for Class-Incremental Unsupervised Domain](https://arxiv.org/pdf/2509.11264) by Mi et al.
+
+
+
 
 (arXiv 2025) [LangDA: Building Context-Awareness via Language for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2503.12780) by Liu et al.
 
