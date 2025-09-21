@@ -691,5 +691,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [GLAD: Generalizable Tuning for Vision-Language Models](https://arxiv.org/pdf/2507.13089) by Peng et al.
 
+(arXiv 2025) [MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis](https://arxiv.org/pdf/2509.06617) by Scholz et al.
+
 
 
