@@ -248,6 +248,12 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing](https://arxiv.org/pdf/2505.09484) by Ma et al.
 
+(JSTARS 2025) [Decoupling and Aligning Modality-Shared Semantics for Single-Domain Generalization in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/11164534) by Chen et al.
+
+
+
+
+
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
 
 ### Data Augmentation
