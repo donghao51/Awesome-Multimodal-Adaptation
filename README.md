@@ -172,6 +172,9 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2025) [Multi-source Multimodal Progressive Domain Adaption for Audio-Visual Deception Detection](https://arxiv.org/pdf/2508.12842) by Lin et al.
 
 
+(PERS 2025) [On the Transferability of Semantic Segmentation for Very-High-Resolution Remote Sensing Data of Multi-City Environments](https://www.ingentaconnect.com/content/asprs/pers/2025/00000091/00000008/art00014;jsessionid=6mcmcr7k36mqb.x-ic-live-01#) by Qin et al.
+
+
 ## Multimodal Test-time Adaptation
 ### Action Recognition
 
