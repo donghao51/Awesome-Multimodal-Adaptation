@@ -502,6 +502,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval](https://www.arxiv.org/abs/2509.04193) by Yang et al.
 
+(arXiv 2025) [DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation](https://arxiv.org/pdf/2509.24896) by Chen et al.
+
 
 ## Adaptation of Multimodal Foundation Models 
 
