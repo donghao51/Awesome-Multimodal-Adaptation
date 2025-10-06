@@ -253,6 +253,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (JSTARS 2025) [Decoupling and Aligning Modality-Shared Semantics for Single-Domain Generalization in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/11164534) by Chen et al.
 
+(EAAI 2025) [Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments](https://www.sciencedirect.com/science/article/pii/S0952197625025904) by Zhao et al.
 
 
 
