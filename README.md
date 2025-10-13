@@ -184,16 +184,18 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICMLW 2024) [Two-Level Test-Time Adaptation in Multimodal Learning](https://openreview.net/forum?id=n0lDbIKVAT) by Lei et al.
 
+(arXiv 2024) [Analytic Continual Test-Time Adaptation for Multi-Modality Corruption](https://arxiv.org/abs/2410.22373) by Zhang et al.
+
 (ICLR 2025) [Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization](https://openreview.net/forum?id=hj323oR3rw) [[Code]](https://github.com/donghao51/AEO) by Dong et al.
 
 (ICLR 2025) [Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://openreview.net/forum?id=1L52bHEL5d) by Ramazanova et al.
 
 (ICLR 2025) [Smoothing the Shift: Towards Stable Test-time Adaptation under Complex Multimodal Noises](https://openreview.net/forum?id=rObkvzJxTG) by Guo et al.
 
-(arXiv 2024) [Analytic Continual Test-Time Adaptation for Multi-Modality Corruption](https://arxiv.org/abs/2410.22373) by Zhang et al.
 
 (AAAI 2025) [Attention Bootstrapping for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2503.02221) [[code]](https://github.com/YushengZhao/ABPEM) by Zhao et al.
 
+(ICML 2025) [Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data](https://openreview.net/forum?id=6EZMWeV5sH) by Chen et al.
 
 
 ### Semantic Segmentation
