@@ -260,6 +260,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (EAAI 2025) [Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments](https://www.sciencedirect.com/science/article/pii/S0952197625025904) by Zhao et al.
 
 
+(TCSS 2025) [DSFENet: A Domain-Specific Feature-Enhanced Generalizable Model for Multimodal Fake News Detection](https://ieeexplore.ieee.org/document/11206386) by Gong et al.
+
 
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
