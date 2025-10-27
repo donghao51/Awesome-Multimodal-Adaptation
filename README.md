@@ -242,6 +242,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (Neurocomputing 2025) [Nonpolarized embedding learning in multimodal domain generalization](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024269?via%3Dihub) by Zhang et al.
 
+(ACM MM 2025) [Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/pdf/10.1145/3746027.3754954) by Li et al.
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
