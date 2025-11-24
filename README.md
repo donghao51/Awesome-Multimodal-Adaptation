@@ -514,6 +514,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2025) [DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation](https://arxiv.org/pdf/2509.24896) by Chen et al.
 
 
+(AAAI 2026) [The Finer the Better: Towards Granular-aware Open-set Domain Generalization](https://www.arxiv.org/abs/2511.16979) by Wang et al.
+
 ## Adaptation of Multimodal Foundation Models 
 
 ### Prompt-based Adaptation 
