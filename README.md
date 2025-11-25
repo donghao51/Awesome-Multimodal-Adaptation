@@ -97,6 +97,8 @@ If you find our work useful in your research please consider citing our [paper](
 
 (ECCV 2024) [Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision](https://arxiv.org/abs/2407.01518) [[Code]](https://github.com/donghao51/MOOSA) by Dong et al.
 
+(arXiv 2025) [Modality-Collaborative Low-Rank Decomposers for Few-Shot Video Domain Adaptation](https://arxiv.org/abs/2511.18711) by Wanyan et al.
+
 
 
 ### Semantic Segmentation
@@ -513,6 +515,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation](https://arxiv.org/pdf/2509.24896) by Chen et al.
 
+
+(arXiv 2025) [Collaborative Learning with Multiple Foundation Models for Source-Free Domain Adaptation](https://arxiv.org/abs/2511.19147) by Lee et al.
 
 (AAAI 2026) [The Finer the Better: Towards Granular-aware Open-set Domain Generalization](https://www.arxiv.org/abs/2511.16979) by Wang et al.
 
