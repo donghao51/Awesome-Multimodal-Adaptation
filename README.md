@@ -199,6 +199,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ICML 2025) [Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data](https://openreview.net/forum?id=6EZMWeV5sH) by Chen et al.
 
+(AAAI 2026) [Bridging Modalities via Progressive Re-alignment for Multimodal Test-Time Adaptation](https://arxiv.org/abs/2511.22862) [[code]](https://github.com/Luchicken/BriMPR) by Li et al.
 
 ### Semantic Segmentation
 
