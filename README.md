@@ -270,6 +270,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (TCSS 2025) [DSFENet: A Domain-Specific Feature-Enhanced Generalizable Model for Multimodal Fake News Detection](https://ieeexplore.ieee.org/document/11206386) by Gong et al.
 
 
+(arXiv 2025) [CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification](https://arxiv.org/pdf/2512.08071) by Ma et al.
+
 
 ## Domain Adaptation and Generalization with the Help of Multimodal Foundation Models
 
