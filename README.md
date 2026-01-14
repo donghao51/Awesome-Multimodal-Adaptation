@@ -4,7 +4,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/abs/2501.18592" target='_blank'>TPAMI 2025</a> •
+        • <a href="https://arxiv.org/abs/2501.18592" target='_blank'>TPAMI 2026</a> •
     </h4>
 </div>
 
@@ -23,7 +23,7 @@ Five multimodal adaptation scenarios are discussed in this survey. (a) Multimoda
 
 🤗 Contributions to new resources and articles are always welcome!
 
-**Update**: Our survey paper has been accepted by TPAMI!
+**Update**: Our survey paper has been accepted by [TPAMI](https://ieeexplore.ieee.org/document/11342305)!
 
 **Update**: We have a new survey paper on [Adapting Vision-Language Models Without Labels](https://www.arxiv.org/abs/2508.05547)
 
