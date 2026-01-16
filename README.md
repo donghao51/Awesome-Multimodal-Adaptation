@@ -528,6 +528,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (AAAI 2026) [The Finer the Better: Towards Granular-aware Open-set Domain Generalization](https://www.arxiv.org/abs/2511.16979) by Wang et al.
 
 ## Adaptation of Multimodal Foundation Models 
+### Survey 
+(arXiv 2025) [Adapting Vision-Language Models Without Labels: A Comprehensive Survey](https://arxiv.org/abs/2508.05547) [[Code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs) by Dong et al.
 
 ### Prompt-based Adaptation 
 (IJCV 2022) [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) [[Code]](https://github.com/KaiyangZhou/CoOp) by Zhou et al.
