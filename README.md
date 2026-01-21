@@ -527,6 +527,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (AAAI 2026) [The Finer the Better: Towards Granular-aware Open-set Domain Generalization](https://www.arxiv.org/abs/2511.16979) by Wang et al.
 
+(arXiv 2026) [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) by Fernando et al.
+
 ## Adaptation of Multimodal Foundation Models 
 ### Survey 
 (arXiv 2025) [Adapting Vision-Language Models Without Labels: A Comprehensive Survey](https://arxiv.org/abs/2508.05547) [[Code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs) by Dong et al.
