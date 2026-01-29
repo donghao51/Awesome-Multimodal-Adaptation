@@ -251,6 +251,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (AAAI 2026) [Modality-Balanced Collaborative Distillation for Multi-Modal Domain Generalization](https://arxiv.org/abs/2511.20258) by Wang et al.
 
+(AAAI 2026) [Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2511.20258) by Li et al.
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
