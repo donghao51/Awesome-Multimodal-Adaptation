@@ -531,6 +531,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2026) [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) by Fernando et al.
 
+(CVPR 2026) [CLIPoint3D: Language-Grounded Few-Shot Unsupervised 3D Point Cloud Domain Adaptation](https://arxiv.org/abs/2602.20409) by Singha et al.
+
 ## Adaptation of Multimodal Foundation Models 
 ### Survey 
 (arXiv 2025) [Adapting Vision-Language Models Without Labels: A Comprehensive Survey](https://arxiv.org/abs/2508.05547) [[Code]](https://github.com/tim-learn/Awesome-LabelFree-VLMs) by Dong et al.
