@@ -615,6 +615,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models](https://arxiv.org/pdf/2503.13443) by Li et al.
 
+(arXiv 2026) [MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation](https://arxiv.org/pdf/2602.21397) by Ghiasvand et al.
+
 
 ### Adapter-based Adaptation 
 (arXiv 2021) [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter) by Gao et al.
