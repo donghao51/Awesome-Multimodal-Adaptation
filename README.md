@@ -253,6 +253,11 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (AAAI 2026) [Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2511.20258) by Li et al.
 
+
+(WACV 2026) [Alignment and Distillation: A Robust Framework for Multimodal Domain Generalizable Human Action Recognition](https://openaccess.thecvf.com/content/WACV2026/papers/Ji_Alignment_and_Distillation_A_Robust_Framework_for_Multimodal_Domain_Generalizable_WACV_2026_paper.pdf) by Ji et al.
+
+(CVPR 2026) [Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917) [[Code]](https://github.com/lihongzhao99/SSMDG) by Li et al.
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
