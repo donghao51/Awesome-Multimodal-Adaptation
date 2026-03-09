@@ -331,6 +331,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2025) [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](https://arxiv.org/pdf/2505.16778) by Chen et al.
 
+(CVPR 2026) [Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model](https://arxiv.org/pdf/2603.05012) by Shi et al.
+
 
 
 ### Learning Strategies
