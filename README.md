@@ -251,7 +251,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (AAAI 2026) [Modality-Balanced Collaborative Distillation for Multi-Modal Domain Generalization](https://arxiv.org/abs/2511.20258) by Wang et al.
 
-(AAAI 2026) [Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2511.20258) by Li et al.
+(AAAI 2026) [Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175) by Li et al.
 
 
 (WACV 2026) [Alignment and Distillation: A Robust Framework for Multimodal Domain Generalizable Human Action Recognition](https://openaccess.thecvf.com/content/WACV2026/papers/Ji_Alignment_and_Distillation_A_Robust_Framework_for_Multimodal_Domain_Generalizable_WACV_2026_paper.pdf) by Ji et al.
