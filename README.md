@@ -258,6 +258,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (CVPR 2026) [Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917) [[Code]](https://github.com/lihongzhao99/SSMDG) by Li et al.
 
+(Knowledge-Based Systems 2026) [Towards robust incomplete multimodal open-set domain generalization with uncertain missing modalities](https://www.sciencedirect.com/science/article/abs/pii/S0950705126005034) [[Code]](https://github.com/leeAndJim/IMDGOS) by Chen et al.
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
