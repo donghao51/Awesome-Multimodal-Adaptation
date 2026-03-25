@@ -338,6 +338,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (CVPR 2026) [Tell2Adapt: A Unified Framework for Source Free Unsupervised Domain Adaptation via Vision Foundation Model](https://arxiv.org/pdf/2603.05012) by Shi et al.
 
 
+(AAAI 2026) [End-to-End Knowledge Distillation for Unsupervised Domain Adaptation with Large Vision-language Models](https://ojs.aaai.org/index.php/AAAI/article/view/39871) by Wang et al.
+
 
 ### Learning Strategies
 
