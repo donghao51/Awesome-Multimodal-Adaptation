@@ -55,7 +55,7 @@ If you find our work useful in your research please consider citing our [paper](
   - [Other Tasks](#other-tasks-1)
 - [Multimodal Domain Generalization](#multimodal-domain-generalization)
   - [Action Recognition](#action-recognition-2)
-  - [Semantic Segmentation and Object Detection](#semantic-segmentation-2)
+  - [Semantic Segmentation](#semantic-segmentation-2)
   - [Other Tasks](#other-tasks-2)
 - [Domain Adaptation and Generalization with the Help of Multimodal Foundation Models](#domain-adaptation-and-generalization-with-the-help-of-multimodal-foundation-models)
   - [Data Augmentation](#data-augmentation)
@@ -260,7 +260,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (Knowledge-Based Systems 2026) [Towards robust incomplete multimodal open-set domain generalization with uncertain missing modalities](https://www.sciencedirect.com/science/article/abs/pii/S0950705126005034) [[Code]](https://github.com/leeAndJim/IMDGOS) by Chen et al.
 
-### Semantic Segmentation and Object Detection
+### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
 (CVPR 2026) [CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](https://arxiv.org/abs/2603.23276) by Wu et al.
