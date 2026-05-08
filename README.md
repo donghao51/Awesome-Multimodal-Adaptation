@@ -23,6 +23,8 @@ Five multimodal adaptation scenarios are discussed in this survey. (a) Multimoda
 
 🤗 Contributions to new resources and articles are always welcome!
 
+**Update**: We have a new benchmark paper on [Multimodal Domain Generalization](https://www.arxiv.org/abs/2605.06643)
+
 **Update**: Our survey paper has been accepted by [TPAMI](https://ieeexplore.ieee.org/document/11342305)!
 
 **Update**: We have a new survey paper on [Adapting Vision-Language Models Without Labels](https://www.arxiv.org/abs/2508.05547)
