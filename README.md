@@ -262,6 +262,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (Knowledge-Based Systems 2026) [Towards robust incomplete multimodal open-set domain generalization with uncertain missing modalities](https://www.sciencedirect.com/science/article/abs/pii/S0950705126005034) [[Code]](https://github.com/leeAndJim/IMDGOS) by Chen et al.
 
+
+(ICML 2026) [MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](https://arxiv.org/pdf/2605.01967) [[Code]](https://github.com/olivesgatech/MER-DG) by Yarici et al.
+
+
 ### Semantic Segmentation
 (ICCV 2023) [BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation](https://arxiv.org/abs/2308.06530) by Li et al.
 
