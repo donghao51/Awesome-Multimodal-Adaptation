@@ -231,6 +231,10 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 ## Multimodal Domain Generalization
+
+### Benchmark
+(arXiv 2026) [Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643) [[Code]](https://github.com/lihongzhao99/MMDG_Benchmark) by Dong et al.
+
 ### Action Recognition
 (WACV 2022) [Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf) by Planamente et al.
 
