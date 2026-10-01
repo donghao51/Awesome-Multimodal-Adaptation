@@ -147,7 +147,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (NeurIPS 2024) [UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior](https://openreview.net/pdf?id=dDDc3iNZA7) by Wu et al.
 
-(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
+(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://doi.org/10.1145/3664647.3680582) by Wu et al.
 
 (ICRA 2025) [SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation](https://arxiv.org/abs/2502.00960) by Yang et al.
 
@@ -376,7 +376,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (CVPR 2023) [Back to the Source: Diffusion-Driven Adaptation to Test-Time Corruption](https://arxiv.org/abs/2207.03442) [[Code]](https://github.com/shiyegao/DDA) by Gao et al.
 
 
-(CVPR 2023) [AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation](https://arxiv.org/abs/2207.03442) [[Code]](https://github.com/gzaraunitn/autolabel) by Zara et al.
+(CVPR 2023) [AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation](https://arxiv.org/abs/2304.01110) [[Code]](https://github.com/gzaraunitn/autolabel) by Zara et al.
 
 
 
@@ -467,7 +467,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (NeurIPS 2024) [CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment](https://openreview.net/pdf?id=MqeCU0tXAY) by Yu et al.
 
 
-(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3612013) by Wu et al.
+(ACM MM 2024) [CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://doi.org/10.1145/3664647.3680582) by Wu et al.
 
 (arXiv 2024) [Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2403.10001) [[Code]](https://github.com/EtronTech/VFMSeg) by Xu et al.
 
@@ -517,7 +517,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (arXiv 2025) [Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation](https://arxiv.org/abs/2504.12753) by Chen et al.
 
-(arXiv 2025) [Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering](https://arxiv.org/pdf/2504.14224) by Li et al.
+(AAAI 2026) [Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/39495) by Li et al.
 
 (arXiv 2025) [Boosting Single-Domain Generalized Object Detection via Vision-Language Knowledge Interactiong](https://arxiv.org/pdf/2504.19086) by Xu et al.
 
@@ -613,7 +613,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 
-(TCSVT 2023) [Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](arxiv.org/abs/2211.02219) [[Code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning) by Ma et al.
+(TCSVT 2023) [Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2211.02219) [[Code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning) by Ma et al.
 
 (TMM 2023) [Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model](https://arxiv.org/abs/2208.08340) [[Code]](https://github.com/fanrena/DPT) by Xing et al.
 
@@ -668,7 +668,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 (ECCV 2024) [CAT-SAM: Conditional Tuning for Few-Shot Adaptation of Segment Anything Model](https://arxiv.org/abs/2402.03631) by Xiao et al.
 
-(MIA 2024) [MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.pdf) [[Code]](https://github.com/cchen-cc/MA-SAM) by Chen et al.
+(MIA 2024) [MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation](https://doi.org/10.1016/j.media.2024.103310) [[Code]](https://github.com/cchen-cc/MA-SAM) by Chen et al.
 
 
 (arXiv 2025) [Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation](https://arxiv.org/pdf/2504.06220) by Hu et al.
@@ -722,7 +722,7 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 
-(CVPR 2024) [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/pdf/2402.10099) by Zanella et al.
+(CVPR 2024) [On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?](https://arxiv.org/pdf/2405.02266) by Zanella et al.
 
 (CVPR 2024) [The Neglected Tails in Vision-Language Models](https://arxiv.org/pdf/2401.12425) by Parashar et al.
 
