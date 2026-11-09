@@ -641,6 +641,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 (arXiv 2026) [MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation](https://arxiv.org/pdf/2602.21397) by Ghiasvand et al.
 
 
+(IJCV 2026) [Efficient Test-Time Prompt Tuning for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-026-03019-3) by Zhu et al.
+
 ### Adapter-based Adaptation 
 (arXiv 2021) [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) [[Code]](https://github.com/gaopengcuhk/CLIP-Adapter) by Gao et al.
 
@@ -748,6 +750,8 @@ in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253) [[Code]](https://
 
 
 (NeurIPS 2024) [BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping](https://arxiv.org/abs/2410.15430) [[Code]](https://github.com/taolinzhang/BoostAdapter) by Zhang et al.
+
+(NeurIPS 2024) [AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[Code]](https://github.com/MCG-NJU/AWT) by Zhu et al.
 
 (CVPR 2025) [On the Out-Of-Distribution Generalization of Large Multimodal Models](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhang_On_the_Out-Of-Distribution_Generalization_of_Large_Multimodal_Models_CVPR_2025_paper.pdf) by Zhang et al.
 
